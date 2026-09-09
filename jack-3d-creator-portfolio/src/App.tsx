@@ -136,7 +136,7 @@ function FadeIn({
 function ContactButton() {
   return (
     <motion.a
-      href="mailto:hello@example.com"
+      href="mailto:ranvirkumarpk1234.com"
       whileHover={{ scale: 1.04 }}
       whileTap={{ scale: 0.97 }}
       className="relative rounded-full bg-[linear-gradient(123deg,#18011F_7%,#B600A8_37%,#7621B0_72%,#BE4C00_100%)] px-8 py-3 text-xs font-medium uppercase tracking-widest text-white shadow-[0_4px_4px_rgba(181,1,167,.25),4px_4px_12px_#7721B1_inset] outline outline-2 outline-white outline-offset-[-3px] sm:px-10 sm:py-3.5 sm:text-sm md:px-12 md:py-4 md:text-base"
@@ -469,7 +469,7 @@ function ProjectsSection() {
 
       <div id="contact" className="mx-auto mt-20 flex max-w-7xl flex-col items-center gap-6 border-t border-[#D7E2EA]/20 pt-16 text-center">
         <p className="text-sm uppercase tracking-widest text-[#D7E2EA]/60">Available for selected projects</p>
-        <a href="mailto:hello@example.com" className="hero-heading text-[clamp(2rem,6vw,5rem)] font-black uppercase leading-none hover:opacity-80">
+        <a href="ranvirkumarpk1234.com" className="hero-heading text-[clamp(2rem,6vw,5rem)] font-black uppercase leading-none hover:opacity-80">
           ranvirkumarpk1234@gmail.com
         </a>
       </div>
